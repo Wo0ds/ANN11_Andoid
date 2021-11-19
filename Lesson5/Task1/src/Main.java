@@ -156,3 +156,4 @@ class War extends AirTransport {
         System.out.println("Бренд : " + brand + "\n Мощность : " + power + " лошадиных сил" + "\n Мощность в кв : " + PowerCalc() + "\n Максимальная скорость : " + maxSpeed + "км/ч" + "\n Размах крыльев : " + wingspan + "м" + "\n Минимальная длинна полосы : " + minRunwayLength + "м" + "\n Наличие системы катапультирования : " + systemEjection + "\n Кол-во ракет : " + counterRocket + " штук");
     }
 }
+
